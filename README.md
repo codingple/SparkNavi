@@ -64,6 +64,8 @@ Spark based on HDFS is used.
 
 ### Output  
 After combination, I can find out that there are more routes from a specified start point.  
+- Number of output : 19,168  
+- File size : 7.11 GB  
 &nbsp;  
 <p align="center">
   <img src="./images/before.png" width="30%" height="30%">
