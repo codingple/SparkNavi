@@ -35,3 +35,29 @@ and these objects invoke each other:
 </p>  
 &nbsp;  
 
+### Input Data  
+I collected the input data in person, using OsmAnd based on OpenStreetMap.  
+- Number of GPX files : **56**  
+- File size : **13.9MB**  
+
+The following illustrates the trajectories.  
+&nbsp;  
+<p align="center">
+  <img src="./images/data.png" width="50%" height="50%">
+</p>  
+&nbsp;  
+
+### Experiment  
+Spark based on HDFS is used.  
+- Run Time : 13 min 39s  
+
+&nbsp;  
+<p align="center">
+  <img src="./images/spark1.png" width="50%" height="50%">
+</p>  
+&nbsp;  
+&nbsp;  
+<p align="center">
+  <img src="./images/spark2.png" width="50%" height="50%">
+</p>  
+&nbsp;  
