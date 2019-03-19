@@ -35,7 +35,7 @@ and these objects invoke each other:
 </p>  
 &nbsp;  
 
-### Input Data  
+### Input  
 I collected the input data in person, using OsmAnd based on OpenStreetMap.  
 - Number of GPX files : **56**  
 - File size : **13.9MB**  
@@ -53,11 +53,20 @@ Spark based on HDFS is used.
 
 &nbsp;  
 <p align="center">
-  <img src="./images/spark1.png" width="50%" height="50%">
+  <img src="./images/spark1.PNG" width="50%" height="50%">
 </p>  
 &nbsp;  
 &nbsp;  
 <p align="center">
-  <img src="./images/spark2.png" width="50%" height="50%">
+  <img src="./images/spark2.PNG" width="50%" height="50%">
+</p>  
+&nbsp;  
+
+### Output  
+After combination, I can find out that there are more routes from a specified start point.  
+&nbsp;  
+<p align="center">
+  <img src="./images/before.png" width="30%" height="30%">
+  <img src="./images/after.png" width="30%" height="30%">
 </p>  
 &nbsp;  
